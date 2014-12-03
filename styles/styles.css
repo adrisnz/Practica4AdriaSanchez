@@ -1,0 +1,39 @@
+
+#textologo
+{
+
+font-size: 30pt;
+
+}
+
+nav
+
+{
+	display: inline-block;
+}
+
+
+
+section
+{
+	display: inline-block;
+	float: center;
+}
+ul
+
+{
+	list-style-type: none;
+}
+
+body
+{
+
+	font-family: Arial;
+}
+
+a{
+
+	text-decoration: none;
+	color: grey;
+	font-size: 20pt;
+}
